@@ -5,7 +5,7 @@ An example demonstrating the basics of handling Events.
 Difficulty level: Beginner */
 
 //Includes NOLOH for your project.
-require_once('/var/www/htdocs/Projects/NOLOH/NOLOH.php');
+require_once('/PATH/TO/NOLOH');
 
 /* Your application must have one class that extends WebPage,
    this will be used as the starting point for your application. */
